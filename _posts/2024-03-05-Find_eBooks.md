@@ -11,7 +11,8 @@ tags:								#标签
 ---
 
 # Z-Liabry
->这是最好用的一个方法。  
+>这是最好用的一个方法。
+ 
 ### 使用网站进入
 1.点击链接：https://www.shuxiangjia.cn，或者浏览器搜索 “书享家” 打开。  
 2.点击Z-Liabry镜像网站  
@@ -30,7 +31,8 @@ tags:								#标签
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/88183a44-6bbe-4aa5-9502-b69bbd72d41f)  
 
 # 全国图书馆参考咨询联盟网  
->对于国内友好，不需要外网。  
+>对于国内友好，不需要外网。
+
 浏览器直接搜索即可。  
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/7a246d60-428c-4fde-ae81-c7b4431fec7e)  
 点击右侧的 “图书馆文献传递”。即可邮件下载。  
