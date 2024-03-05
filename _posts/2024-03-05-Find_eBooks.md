@@ -11,9 +11,9 @@ tags:								#标签
 ---
 
 # Z-Liabry
->这是最好的一个方法。
+>这是最好用的一个方法。  
 ### 使用网站进入
-可以直接点击链接：https://www.shuxiangjia.cn
+可以直接点击链接：https://www.shuxiangjia.cn  
 点击Z-Liabry镜像网站
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/b0e422a9-0763-4f66-bfa7-9aaea245a889)
 
