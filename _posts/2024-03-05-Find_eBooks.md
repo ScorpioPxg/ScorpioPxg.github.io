@@ -25,7 +25,8 @@ tags:								#标签
 5.登陆后如图，可以自行搜索下载了，每个账号每天最多下载 10 本书  
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/5853ca4f-e0dc-4c29-9659-373e8edf24cc)  
 ### 下载客户端  
->客户端比网站更稳定。  
+>客户端比网站更稳定。
+
 点击链接：https://go-to-zlibrary.se/  
 选择对应版本即可（需要外网）。  
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/88183a44-6bbe-4aa5-9502-b69bbd72d41f)  
