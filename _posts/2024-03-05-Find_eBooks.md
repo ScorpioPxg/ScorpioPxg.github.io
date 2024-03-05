@@ -14,7 +14,7 @@ tags:								#标签
 >这是最好用的一个方法。
  
 ### 使用网站进入
-1. 点击链接：https://www.shuxiangjia.cn，或者浏览器搜索 “书享家” 打开。  
+1. 点击链接：[书享家](https://www.shuxiangjia.cn)，或者浏览器搜索 “书享家” 打开。  
 2. 点击Z-Liabry镜像网站  
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/b0e422a9-0763-4f66-bfa7-9aaea245a889)  
 3. 向下滑动，最好选最新的链接网站。  
@@ -28,7 +28,7 @@ tags:								#标签
 ### 下载客户端  
 >客户端比网站更稳定。
 
-点击链接：https://go-to-zlibrary.se/  
+点击链接：[https://go-to-zlibrary.se/](https://go-to-zlibrary.se/)  
 选择对应版本即可（需要外网）。  
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/88183a44-6bbe-4aa5-9502-b69bbd72d41f)  
 
