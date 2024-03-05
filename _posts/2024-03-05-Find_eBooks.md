@@ -35,4 +35,4 @@ tags:								#标签
 ![image](https://github.com/ScorpioPxg/scorpiopxg.github.io/assets/161672962/7a246d60-428c-4fde-ae81-c7b4431fec7e)  
 点击右侧的 “图书馆文献传递”。即可邮件下载。  
 
-如果两种方式都没找到可以考虑正版书籍。
+<font color="red">如果两种方式都没找到可以考虑正版书籍。</font>
