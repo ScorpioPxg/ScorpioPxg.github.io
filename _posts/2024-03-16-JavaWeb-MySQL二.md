@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      JavaWeb-MySQL(二) 			# 标题 
+title:      JavaWeb-MySQL二 			# 标题 
 subtitle:   数据库操作DQL、多表设计  #副标题
 date:       2024-03-16 				# 时间
 author:     Scorpio 						# 作者
